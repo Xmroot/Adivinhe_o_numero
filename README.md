@@ -3,7 +3,7 @@
 </h1>
 <h4 align="center">O adivinh o numero foi feito para pessoas palpitar um numero como se fosse um jogo de aposta!</h4>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://github.com/Xmroot/Adivinhe_o_numero/blob/main/2023-08-06-03-09-14.gif)
 
 ### Ajustes e melhorias
 

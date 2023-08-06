@@ -14,7 +14,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações confirmad
 - [ ] Jogo Web + Painel Admin
 - [ ] Webhook telegram/discord
 
-## 📒 Instalando as depedencias
+## 📒 Instalando as dependencias
 
 ```
 pip install tkinter

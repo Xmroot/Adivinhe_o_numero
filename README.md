@@ -1,7 +1,7 @@
 <h1 align="center">
   Crie o seu palpite!
 </h1>
-<h4 align="center">O adivinh o numero foi feito para pessoas palpitar um numero como se fosse um jogo de aposta!</h4>
+<h4 align="center">O adivinha o numero foi feito para pessoas palpitar um numero como se fosse um jogo de aposta!</h4>
 
 ![screenshot](https://github.com/Xmroot/Adivinhe_o_numero/blob/main/2023-08-06-03-09-14.gif)
 

@@ -1,3 +1,6 @@
+## CODIGO DESATUALIZADO
+## EMBREVE VOU SOLTAR UM UPDATE COMPLETO.
+
 import json
 import os
 import tkinter as tk
